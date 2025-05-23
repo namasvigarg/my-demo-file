@@ -1,2 +1,2 @@
 # my-demo-file
-First Github Repo
+First Github Repository
